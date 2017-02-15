@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin
+        uexName="uexCloudwiseMAgent" version ="1.1.4" build="0">
+        <info>0:透视宝(CloudwiseMAgent)插件 for iOS</info>
+    </plugin>
+</uexplugins>
